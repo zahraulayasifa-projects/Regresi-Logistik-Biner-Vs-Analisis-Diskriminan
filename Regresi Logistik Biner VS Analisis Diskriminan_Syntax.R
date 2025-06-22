@@ -1,4 +1,4 @@
-#KELOMPOK 5_UAS DATA MINING#
+#Regresi Logistik Biner Dan Analisis Diskriminan#
 library(caret)
 library(car)
 library(ResourceSelection)
